@@ -1,3 +1,7 @@
-**👋 Hey, I'm Aayush Sharma! 🤖**
+### **👋 Hey, I'm Aayush Sharma! 🤖**
+#### Machine Learning Engineer
+![Machine Learning Engineer](https://pbs.twimg.com/profile_banners/1689016478417170432/1691832319/1080x360)
 
-Greetings from Germany! I'm a Robotics Systems enthusiast about to complete my master's from RWTH Aachen. Currently delving into Machine Learning for my thesis at Mercedes-Benz, Stuttgart. Passionate about crafting smart solutions with Machine Learning algorithms. Let's dive into the world of AI together! 🚀
+Greetings from Germany! I'm a Robotics Systems enthusiast about to complete my master's from RWTH Aachen. Currently delving into Machine Learning for my thesis at Mercedes-Benz, Stuttgart.
+
+Skills: Python / Neural networks / Machine Learning / C++
