@@ -3,4 +3,4 @@
 
 I'm a passionate professional in the field of Automation, AI and Machine Learning. I hold a Master's degree, where I delved deep into the fascinating realms of ML and its applications.
 
-Please feel free to explore my repositories and don't hesitate to reach out for collaborations or talks.
+Please feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions.
